@@ -1,16 +1,2 @@
-# myapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Frame 7 (1)](https://github.com/Muhammed-Sahad-c/big_cart_ecommerce_app/assets/109616941/b27492d6-bf5d-4c65-a41e-bc7e04305ae6)
+##### Original design by [Usamamemon](https://www.figma.com/@usamamemon). Downloaded from [Figma Community](https://figma.com/community).
